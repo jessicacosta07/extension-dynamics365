@@ -2,7 +2,7 @@
 
 ## Programação C# com CRM Dynamics
 
-## Documentation
+## Documentations
 
 ### What is Dynamics 365?
 Dynamics 365 is a portfolio of intelligent business applications that deliver superior operational efficiency and innovative customer experiences enabling companies to become more agile and reduce complexity without increasing costs.
